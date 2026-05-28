@@ -12,5 +12,3 @@ a java-based memory matching game where users flip cards to find matching pairs.
 - board shuffling algorithm
 - level picking feature
 - game loop and win condition detection
-
-![Screenshot 2025-04-23 170508](https://github.com/user-attachments/assets/3ac761d4-a943-4363-85a7-bf052e15ef19)
